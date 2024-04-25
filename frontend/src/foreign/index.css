@@ -1,0 +1,20 @@
+#loading{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.searchArea{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.searchForm{
+    width: 100%;
+}
